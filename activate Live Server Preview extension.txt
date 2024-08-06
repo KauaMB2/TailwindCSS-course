@@ -1,0 +1,1 @@
+press 'F1' and type "Show Live Server Preview"
